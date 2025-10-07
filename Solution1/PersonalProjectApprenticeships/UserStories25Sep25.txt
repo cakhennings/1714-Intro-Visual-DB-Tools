@@ -1,0 +1,5 @@
+As a Workforce Development Service Provider, I want to be able to match prospective job candidates with apprenticeship opportunities so companies can develop this talent with the skills to perform successfully in well paying journey level positions.
+As a Workforce Development Service Provider, I want to be able to track the outcome of apprenticeship matches so I can determine understand trends and determine which types of matches are most likely to succeed.
+As a private business owner, I want to attract and hire quality, diverse talent that can be trained over time to design company products so that my customer requests can be fulfilled.
+As a state resident, I want to find a job where I can perform challenging work that I enjoy, that affords me an opportunity to learn progressively more complex responsibilities while I earn a good wage so I can provide for myself and family and contribute to my community.
+As a state workforce and economic development agent, I want to gather information on state apprenticeships so I can produce reports on the health of apprenticeship programs in the state.

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="PersonalProjectApprenticeships">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="script.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>script.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="AddressTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AddressTable.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="AgencyTypeTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AgencyTypeTable.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="ApprenticeshipTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ApprenticeshipTable.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="BusinessOwnerTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>BusinessOwnerTable.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="ContractTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ContractTable.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="EntityWorksheet 25Sep25.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>EntityWorksheet 25Sep25.txt</FullPath>
+        </FileNode>
+        <FileNode Name="InvoiceTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>InvoiceTable.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="JobCandidateTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>JobCandidateTable.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="UserStories25Sep25.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>UserStories25Sep25.txt</FullPath>
+        </FileNode>
+        <FileNode Name="WorkforceAgentTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>WorkforceAgentTable.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="WorkforceDevServiceProviderTable.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>WorkforceDevServiceProviderTable.jpg</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

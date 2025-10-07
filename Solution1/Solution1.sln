@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "PersonalProjectApprenticeships", "PersonalProjectApprenticeships\PersonalProjectApprenticeships.ssmssqlproj", "{1EEAE97F-7112-2E69-C4F5-A3BB505FBE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EEAE97F-7112-2E69-C4F5-A3BB505FBE0B}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2BAD37F-6DFE-4CF5-9381-E8790C024497}
+	EndGlobalSection
+EndGlobal

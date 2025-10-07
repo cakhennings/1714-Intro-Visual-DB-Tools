@@ -1,0 +1,8 @@
+StateWorkforceDevAgent(Agent_ID, email, phone_number, address, name)
+WorkforceDevelopmentServiceProvider(ID, name, address, email, phone_number)
+BusinessOwner(Business_ID, name, address, email, phone_number, business_type)
+JobCandidate(Candidate_ID, name, email, address, phone_number, education_type, skills_type, experience_type, professional_goals_type, interests_type, status)
+Apprenticeship(Apprenticeship_ID, Business_ID, Candidate_ID, location, job_category, qualifications_type, application_period, beginning_date, salary_category, duration, apprenticeship_certification_type)
+Contract(Contract_ID, date_executed, contract_value, Business_ID, status)
+Invoice(Invoice_ID, product_ID, date_issued, amount, due_date, status, Business_ID)
+Receipt(Receipt_ID, Invoice_ID, Business_ID, date, amount_paid, balance_remaining)
